@@ -4,7 +4,7 @@
 
 This repository was created to document and organize my progress in the 100 Days of Java Challenge, which started on September 8, 2024. The goal is to advance in learning the Java language, covering fundamentals, intermediate concepts, and more advanced topics throughout the journey.
 
-```Start: 09/08/2024 | Estimated End: 12/17/2024 ```
+```Start: 08/09/2024 | Estimated End: 17/12/2024 ```
 
 ## 📌 Topics Covered
 
