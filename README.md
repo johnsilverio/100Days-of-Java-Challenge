@@ -12,7 +12,13 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 01
 
-- Initial planning and development environment setup.
+- **General Planning**: Set up a study plan and organized the repository.
+- **Course Review**: Revised lessons 1 to 15 from the Java Marathon Challenge playlist.
+- **Official Documentation**: Read "Overview" and "Getting Started" sections from the official Java documentation.
+- **Topics Covered**:
+    - Basic concepts of the Java language.
+    - Framework setup and organization.
+    - Introduction to Java primitives and data types.
 
 ###### Day 02
 
