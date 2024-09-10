@@ -277,7 +277,8 @@ This repository was created to document and organize my progress in the 100 Days
 - [🏆 100DaysOfCode](https://www.100daysofcode.com/) - The Official Website for the Challenge.
 - [📘 100 Days of Code - Java Learning Platform](https://www.100daysofcode.io/learn/java) - Comprehensive guide for the challenge.
 - [📖 "Java: The Complete Reference" by Herbert Schildt](https://www.amazon.com.br/Java-Complete-Reference-Herbert-Schildt/dp/0071808558) - An extensive book on Java.
-- [📚 Oracle Java Documentation](https://docs.oracle.com/javase/) - Official Oracle documentation for Java.
+- [📄 Oracle Java Documentation](https://docs.oracle.com/javase/) - Official Oracle documentation for Java.
+- [📚 Core Java Volume I - Fundamentals](https://a.co/d/dkiPcO3) - Recommended book for foundational Java knowledge.
 - [🌐 Dev.java](https://dev.java/) - Comprehensive resources and tools for Java developers.
 
 ## 📁 **Repositories and Projects**
