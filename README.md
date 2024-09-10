@@ -16,11 +16,16 @@ This repository was created to document and organize my progress in the 100 Days
 - **Java Setup**: Installation of JDK and setup of the development environment.
 - **Java Documentation**: Read "Overview" and "Getting Started" sections from the official Java documentation.
 - **Java History**: Overview of Java's development and evolution.
-- **Course Review**: Lessons 1 to 15 from the Java Marathon Challenge playlist.
+- **Course**: Lessons 1 to 14 from the Java Marathon Challenge playlist.
 - **Primitive Data Types**: Understanding `int`, `long`, `byte`, `short`, `float`, `double`, `boolean`, and `char`.
 - **IDE Exploration**: Basic navigation and features of IntelliJ IDEA.
 
 ###### Day 02
+
+- **Book Addition**: Started reading "Core Java Volume I - Fundamentals".
+- **Java Operators**: Covered arithmetic, relational, logical, and assignment operators.
+- **Conditional Structures**: Studied `if`, `else if`, ternary operator, and `switch` statements.
+- **Course**: Lessons 15 to 26 from the Java Marathon Challenge playlist.
 
 ###### Day 03
 
