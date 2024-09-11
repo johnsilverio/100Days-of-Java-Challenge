@@ -29,6 +29,9 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 03
 
+- **String Manipulation**: Learned the fundamentals of handling strings in Java.
+- **Exercises**: Worked on conditional structures exercises.
+
 ###### Day 04
 
 ###### Day 05
