@@ -34,6 +34,10 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 04
 
+- **Loops**: Practiced `while`, `do-while`, and `for` loops, understanding their nuances and when to use each.
+- **Flow Control**: Applied the `break` and `continue` statements to control the execution of loops.
+- **Exercises**: Reinforced knowledge with practical exercises focusing on loop structures.
+
 ###### Day 05
 
 ###### Day 06
