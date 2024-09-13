@@ -40,6 +40,9 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 05
 
+- **Arrays**: Learned how to create, manipulate, and iterate over arrays using traditional loops and the `foreach` loop.
+- **Multidimensional Arrays**: Explored how to work with multidimensional arrays to store and access data in matrix form.
+
 ###### Day 06
 
 ###### Day 07
