@@ -45,6 +45,9 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 06
 
+- **Object-Oriented Programming (OOP)**: Began learning about classes and objects in Java.
+- **OOP Benefits**: Explored how OOP helps in organizing and structuring code efficiently.
+
 ###### Day 07
 
 ###### Day 08
