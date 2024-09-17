@@ -50,6 +50,9 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 07
 
+- **Access Modifiers:** Learned about public, private, and protected, and how they control access to class members.
+- **Getters and Setters:** Implemented getters and setters to control access to attributes while keeping data encapsulated.
+
 ###### Day 08
 
 ###### Day 09
