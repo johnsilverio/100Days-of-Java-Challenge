@@ -55,6 +55,11 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 08
 
+- **Object References**: Deepened understanding of how classes define object behavior and how object references work in Java.
+- **Methods**: Studied how methods operate within classes and their interactions.
+- **Cohesion**: Learned about class cohesion, which is the practice of keeping each class focused on a single responsibility to promote code organization and avoid unnecessary repetition.
+- **Exercises**: Completed exercises on class design and object references to reinforce the theoretical concepts.
+
 ###### Day 09
 
 ###### Day 10
