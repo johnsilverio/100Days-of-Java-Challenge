@@ -62,6 +62,8 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 09
 
+- **Methods**: Continued studying methods, focusing on parameters and return values.
+
 ###### Day 10
 
 ###### 🏆 Summary of Days 01 to 10:
