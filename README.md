@@ -66,7 +66,17 @@ This repository was created to document and organize my progress in the 100 Days
 
 ###### Day 10
 
+- **Project Work**: Reviewed the first 10 days by implementing a project based on learned concepts.
+- **BankAccount Project**: Created a [BankAccount](https://github.com/johnsilverio/bankProjectOOP) class to simulate bank account operations such as deposits, withdrawals, and account status management.
+- **OOP Concepts Application**: Practiced using classes and methods, reinforcing understanding of OOP principles.
+- **Project Structure**: Organized the project into packages for better code management.
+- **Hands-On Learning**: Followed the 80/20 rule of learning by applying concepts in practice.
+
 ###### 🏆 Summary of Days 01 to 10:
+
+- Completed foundational Java concepts, including data types, operators, control structures, and OOP basics.
+- Gained hands-on experience through practical exercises and a project, solidifying understanding of Object-Oriented Programming.
+- Emphasized the importance of theory and practice balance to reinforce learning.
 
 </details> <details> <summary>Days 11 to 20</summary>
 
